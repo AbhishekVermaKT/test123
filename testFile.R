@@ -1,0 +1,1 @@
+getALife <- print("foo")
